@@ -1,0 +1,10 @@
+const accountId= 144553;
+let accemail = "sury@gmail.com";
+var password= "12345";
+accountCity = "jaipur";
+//accountId =2;
+console.log(accountId);
+accemail="abcd";
+password="2121";
+accountCity="akb";
+console.table([accountId, accemail, accountCity, password]);
